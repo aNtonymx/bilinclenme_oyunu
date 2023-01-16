@@ -29,12 +29,12 @@ let questions = [
         answer: 3,
     },
     {
-        question: "Aşağıdakilerden hangisi dijital vatandaşlık ilkelerinden birisi değildir?",
-        choice1: "Dijital Ulaşım",
-        choice2: "Dijital Güvenlik",
-        choice3: "Dijital Etik",
-        choice4: "Dijital İletişim",
-        answer: 1,
+        question: "- Çevrim içi alışveriş işlemlerinde sıklıkla kullanılan “3D Secure” özelliği ne işe yaramaktadır?",
+        choice1: "3 farklı parola girişi ile alışverişi güvenli biçimde tamamlamayı hedefler",
+        choice2: "Müşteriye kredi kartının 3 boyutlu görselini doğrulatarak güvenlik sağlar.",
+        choice3: "Alışveriş yapıldıktan 3 gün sonra ödemenin satıcıya aktarımını sağlar",
+        choice4: "Satıcı, banka ve müşteri arasındaki bilgi akışını özel şifreleme teknikleri ve anahtarlarla doğrulayarak korur.",
+        answer: 4,
     },
     {
         question: "Hangisi Anti-Virüs uygulaması değildir?",
