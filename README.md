@@ -1,4 +1,4 @@
-# bilinclenme_oyunu
+# dijital_zeka_oyunu
 tubitak kapsamında insanların dijital vatandaşlık konusunda dahada bilgilenmesi için hazırlandı.
 
 
