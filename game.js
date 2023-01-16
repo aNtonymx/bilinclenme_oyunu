@@ -34,7 +34,7 @@ let questions = [
         choice2: "Dijital Güvenlik",
         choice3: "Dijital Etik",
         choice4: "Dijital İletişim",
-        answer: 3,
+        answer: 1,
     },
     {
         question: "Hangisi Anti-Virüs uygulaması değildir?",
